@@ -6,6 +6,8 @@ Team members: Jimmy Yan, Dylan Knutson
 
 [YouTube video](https://www.youtube.com/watch?v=RvOcD09-hac)
 
+![screenshot](/screenshot.jpg?raw=true)
+
 ## Features implemented:
 * SSAO
 * Post-process volumetric light scattering
